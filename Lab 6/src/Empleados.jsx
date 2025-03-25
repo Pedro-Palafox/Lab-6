@@ -18,6 +18,7 @@ const data = [
     { Employee_Name: "John Lennon", Email: "john@accenture.com", ATC: "NYC" , Level:"12", Role:"CEO",Project:"Apple Records",Status:"Staffed"},
     { Employee_Name: "Ringo Starr", Email: "ringo@accenture.com", ATC: "UK" , Level:"12", Role:"CEO ",Project:"Apple Records",Status:"Staffed"},
     { Employee_Name: "George Harrison", Email: "george@accenture.com", ATC: "UK" , Level:"12", Role:"CEO",Project:"Apple Records",Status:"Staffed"},
+    { Employee_Name: "George Harrison", Email: "george@accenture.com", ATC: "UK" , Level:"12", Role:"CEO",Project:"Apple Records",Status:"Staffed"},
 
 ];
 
